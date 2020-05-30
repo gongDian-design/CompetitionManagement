@@ -13,6 +13,7 @@
         <module>ConpetitionManagement-contestants</module>
         <module>ConpetitionManagement-common</module>
         <module>CompetitionManagement-web</module>
+        <module>CompetitionManagement-database</module>
     </modules>
 
     <parent>
